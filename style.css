@@ -2,7 +2,7 @@ body {
 font-family: Arial, sans-serif;
 margin: 0;
 padding: 0;
-background-color: #FDF5E6;
+background-color: #8B6E4D;
 }
 
 header {
@@ -32,6 +32,7 @@ font-weight: bold;
 
 main {
 padding: 20px;
+background-color: #FDF5E6;
 }
 
 h1,
@@ -44,7 +45,8 @@ footer {
 background-color: #8B6E4D;
 padding: 10px;
 text-align: center;
-height: 100px;
+height: auto;
+padding: auto;
 }
 
 @media (max-width: 767px) {
