@@ -49,5 +49,31 @@ height: auto;
 padding: auto;
 }
 
+.next {
+border-radius: 10px;
+color: white;
+background-color: #8B6E4D;
+cursor: pointer;
+font-size: 15px;
+padding: 3px 5px;
+align-items: center;
+justify-items: center;
+display: flex;
+margin-right: 5px;
+margin-left: 5px;
+}
+
+.butt {
+align-items: center;
+justify-content: center;
+display: flex;
+text-decoration: none;
+}
+
+.divbutt {
+display: flex;
+justify-content: center;
+}
+
 @media (max-width: 767px) {
 }
